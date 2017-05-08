@@ -1,0 +1,6 @@
+C:\temp\Erick\Laboratorio7\Laboratorio7\bin\Debug\Laboratorio7.exe.config
+C:\temp\Erick\Laboratorio7\Laboratorio7\bin\Debug\Laboratorio7.exe
+C:\temp\Erick\Laboratorio7\Laboratorio7\bin\Debug\Laboratorio7.pdb
+C:\temp\Erick\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.csprojResolveAssemblyReference.cache
+C:\temp\Erick\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.exe
+C:\temp\Erick\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.pdb

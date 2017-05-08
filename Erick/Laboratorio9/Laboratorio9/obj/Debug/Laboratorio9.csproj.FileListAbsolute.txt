@@ -1,0 +1,6 @@
+C:\Users\sala312.PORTOALEGRE\Documents\Visual Studio 2015\Projects\Laboratorio9\Laboratorio9\bin\Debug\Laboratorio9.exe.config
+C:\Users\sala312.PORTOALEGRE\Documents\Visual Studio 2015\Projects\Laboratorio9\Laboratorio9\bin\Debug\Laboratorio9.exe
+C:\Users\sala312.PORTOALEGRE\Documents\Visual Studio 2015\Projects\Laboratorio9\Laboratorio9\bin\Debug\Laboratorio9.pdb
+C:\Users\sala312.PORTOALEGRE\Documents\Visual Studio 2015\Projects\Laboratorio9\Laboratorio9\obj\Debug\Laboratorio9.csprojResolveAssemblyReference.cache
+C:\Users\sala312.PORTOALEGRE\Documents\Visual Studio 2015\Projects\Laboratorio9\Laboratorio9\obj\Debug\Laboratorio9.exe
+C:\Users\sala312.PORTOALEGRE\Documents\Visual Studio 2015\Projects\Laboratorio9\Laboratorio9\obj\Debug\Laboratorio9.pdb

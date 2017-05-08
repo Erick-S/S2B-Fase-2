@@ -1,0 +1,136 @@
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\obj\Debug\TesteWinForms.csproj.GenerateResource.Cache
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\LabsC#Basico\ExemplosDeAula\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.dll
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+C:\Documents and Settings\TEMP\Desktop\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.dll
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.6.tlog
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\__pucrs\MicroSoft\Cursos\C_Sharp\CSharpBasico_JUL2011\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.4@2011-07-10T22;34;06.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.6@2011-07-10T22;34;06.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\ResGen.read.1.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\ResGen.write.1.tlog
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.dll
+D:\__pucrs\MicroSoft\Cursos\C_Sharp\CS_Basico\CSharpBasico_JAN_2012\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.dll
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\TesteWinForms.csprojResolveAssemblyReference.cache
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+E:\extensao\C_Sharp\CS_Basico\CSharpBasico_JAN_2013\DemosAula\aula1\Lampada\WindowsFormsApplication1\obj\Debug\TesteWinForms.csproj.GenerateResource.Cache
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\TesteWinForms.csprojResolveAssemblyReference.cache
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\TesteWinForms.csproj.GenerateResource.Cache
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Lampada.dll
+E:\extensao\C_Sharp\CS_Avançado\CSharp_Avancado_Jul_2013\Demos_Solutions\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+E:\extensao\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\extensao\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Lampada.dll
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\TesteWinForms.csprojResolveAssemblyReference.cache
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+D:\acad\extensao\customizados\DBServer_jul2013\cs\Demos_Solutions_csa\Dia3_EventosExcecoes\LampadaEventos_demo\WindowsFormsApplication1\obj\Debug\TesteWinForms.csproj.GenerateResource.Cache
+D:\acad\extensao\customizados\totvs_21013_2\demos\demo02_eventosDelegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\acad\extensao\customizados\totvs_21013_2\demos\demo02_eventosDelegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\bin\Debug\Lampada.dll
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\obj\Debug\TesteWinForms.csprojResolveAssemblyReference.cache
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+D:\acad\extensao\MS\s2b\s2b_2015_1\demos\demo_eventosDelegates\WindowsFormsApplication1\obj\Debug\TesteWinForms.csproj.GenerateResource.Cache
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\bin\Debug\Lampada.dll
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\obj\Debug\TesteWinForms.csprojResolveAssemblyReference.cache
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+D:\acad\extensao\MS\s2b\s2b_2016_1\cSharp\Demos\demo_eventosDelegates_161\WindowsFormsApplication1\obj\Debug\TesteWinForms.csproj.GenerateResource.Cache
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\bin\Debug\Resources\LampadaAcesa.jpg
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\bin\Debug\Resources\LampadaApagada.jpg
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\bin\Debug\Lampada.dll
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\bin\Debug\Lampada.pdb
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\obj\Debug\TesteWinForms.csprojResolveAssemblyReference.cache
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaPrincipal.resources
+C:\temp\demo_eventosDelegates_162\WindowsFormsApplication1\obj\Debug\TesteWinForms.csproj.GenerateResource.Cache

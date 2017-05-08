@@ -1,0 +1,31 @@
+﻿@model MvcMovie.Models.Genre
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Browse</title>
+</head>
+<body>
+    <h2>Browse</h2>
+    <h3>Genre</h3>
+    <div>
+        <dl class="dl-horizontal">
+            <dt>@Html.DisplayNameFor(model => model.Name)</dt>
+            <dd>@Html.DisplayFor(model => model.Name)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.Description)</dt>
+            <dd>@Html.DisplayFor(model => model.Description)</dd>
+        </dl>
+    </div>
+    <div>
+        <ul id="album-list">
+            @foreach(var film in Model.Movies)
+            {
+                <li>@Html.ActionLink(film.Title, "Details", new { ID = film.ID })</li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\temp\Erick\Aula2\Aula2\bin\Debug\Aula2.exe.config
+C:\temp\Erick\Aula2\Aula2\bin\Debug\Aula2.exe
+C:\temp\Erick\Aula2\Aula2\bin\Debug\Aula2.pdb
+C:\temp\Erick\Aula2\Aula2\obj\Debug\Laboratorio4.csprojResolveAssemblyReference.cache
+C:\temp\Erick\Aula2\Aula2\obj\Debug\Aula2.exe
+C:\temp\Erick\Aula2\Aula2\obj\Debug\Aula2.pdb

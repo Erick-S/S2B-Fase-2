@@ -1,0 +1,5 @@
+C:\temp\Erick\Laboratorio8\Laboratorio8\bin\Debug\Laboratorio8.exe.config
+C:\temp\Erick\Laboratorio8\Laboratorio8\bin\Debug\Laboratorio8.exe
+C:\temp\Erick\Laboratorio8\Laboratorio8\bin\Debug\Laboratorio8.pdb
+C:\temp\Erick\Laboratorio8\Laboratorio8\obj\Debug\Laboratorio8.exe
+C:\temp\Erick\Laboratorio8\Laboratorio8\obj\Debug\Laboratorio8.pdb

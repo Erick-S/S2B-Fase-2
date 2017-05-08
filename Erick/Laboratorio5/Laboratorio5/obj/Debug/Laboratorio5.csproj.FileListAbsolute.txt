@@ -1,0 +1,6 @@
+C:\temp\Erick\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.exe.config
+C:\temp\Erick\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.exe
+C:\temp\Erick\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.pdb
+C:\temp\Erick\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.csprojResolveAssemblyReference.cache
+C:\temp\Erick\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.exe
+C:\temp\Erick\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.pdb

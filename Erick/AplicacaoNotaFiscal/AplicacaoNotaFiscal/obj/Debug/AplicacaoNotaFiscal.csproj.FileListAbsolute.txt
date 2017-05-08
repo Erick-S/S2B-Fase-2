@@ -1,0 +1,6 @@
+C:\temp\Erick\AplicacaoNotaFiscal\AplicacaoNotaFiscal\bin\Debug\AplicacaoNotaFiscal.exe.config
+C:\temp\Erick\AplicacaoNotaFiscal\AplicacaoNotaFiscal\bin\Debug\AplicacaoNotaFiscal.exe
+C:\temp\Erick\AplicacaoNotaFiscal\AplicacaoNotaFiscal\bin\Debug\AplicacaoNotaFiscal.pdb
+C:\temp\Erick\AplicacaoNotaFiscal\AplicacaoNotaFiscal\obj\Debug\AplicacaoNotaFiscal.csprojResolveAssemblyReference.cache
+C:\temp\Erick\AplicacaoNotaFiscal\AplicacaoNotaFiscal\obj\Debug\AplicacaoNotaFiscal.exe
+C:\temp\Erick\AplicacaoNotaFiscal\AplicacaoNotaFiscal\obj\Debug\AplicacaoNotaFiscal.pdb

@@ -1,0 +1,5 @@
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\DemosAula\Lampada\Lampada\Lampada\bin\Debug\Lampada.exe
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\DemosAula\Lampada\Lampada\Lampada\bin\Debug\Lampada.pdb
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\DemosAula\Lampada\Lampada\Lampada\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\DemosAula\Lampada\Lampada\Lampada\obj\x86\Debug\Lampada.exe
+C:\Users\bcopstein\Documents\Documentos\CI\Cursos\CursosC#\CursoC#BasicoVerJan2011\DemosAula\Lampada\Lampada\Lampada\obj\x86\Debug\Lampada.pdb
