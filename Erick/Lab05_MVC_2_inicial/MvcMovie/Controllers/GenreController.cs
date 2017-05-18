@@ -19,6 +19,7 @@ namespace MvcMovie.Controllers
             return View(genres.ToList());
         }
 
+        [Authorize]
         public ActionResult About()
         {
             var data = from movie in movieDb.Movies

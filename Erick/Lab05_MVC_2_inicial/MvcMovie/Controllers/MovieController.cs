@@ -62,6 +62,7 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movie/Create
+        [Authorize]
         public ActionResult Create()
         {
             ViewBag.GenreID = new SelectList(movieDb.Genres, "GenreID", "Name");
@@ -87,6 +88,7 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movie/Edit/5
+        [Authorize]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -136,6 +138,7 @@ namespace MvcMovie.Controllers
             return View(movie);        }
 
         // GET: Movie/Delete/5
+        [Authorize(Users = "admin@mvc.br")]
         public ActionResult Delete(int? id)
         {
             if (id == null)
