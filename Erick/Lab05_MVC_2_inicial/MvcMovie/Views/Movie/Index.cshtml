@@ -84,10 +84,12 @@
 
 </table>
 
-<script type="text/javascript">
- $(document).ready(function () {
- $('#SearchString').autocomplete({
- source: '@Url.Action("MovieFilter")'
- });
- })
-</script>
+@section Scripts{
+    <script type="text/javascript">
+         $(document).ready(function (){
+             $('#SearchString').autocomplete({
+                source: '@Url.Action("MovieFilter")'
+             });
+         })
+    </script>
+}
